@@ -1,0 +1,4 @@
+I have included the builds folder for the dashboard I have been working on.
+To make this dashboard work on your computer, copy this folder, go into your Labview Data folder, find the builds folder, and paste this in there
+Then, open up your driver station, find the third vertical tab on the left, with a gear symbol, and select "Labview" for dashboard type
+Hopefully my dashboard will appear
